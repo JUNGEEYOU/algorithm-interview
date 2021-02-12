@@ -3,8 +3,8 @@
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
 
 ## 문제 풀이
-| 번호 | 제목 | 난이도 | 장 | 풀이 코드 |
-| --- | --- | ---- | - | --- |
+| 번호 | 제목 | 난이도 | 장 | 풀이 코드 | 완료 유무 | 
+| --- | --- | ---- | - | --- | --- |
 | 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 | [1-1.py](2-python/ch06/1-1.py)<br>[1-2.py](2-python/ch06/1-2.py)<br>[1-3.py](2-python/ch06/1-3.py)<br>[1-4.c](2-python/ch06/1-4.c) |
 | 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 | [2-1.py](2-python/ch06/2-1.py)<br>[2-2.py](2-python/ch06/2-2.py) |
 | 3 | [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | 6장. 문자열 조작 | [3-1.py](2-python/ch06/3-1.py) |
